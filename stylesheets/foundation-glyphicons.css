@@ -5,7 +5,7 @@
   width: 14px;
   height: 14px;
   vertical-align: text-top;
-  background-image: url(i/glyphgicons-halflings.png);
+  background-image: url(../images/glyphgicons-halflings.png);
   background-position: 14px 14px;
   background-repeat: no-repeat;
   *margin-right: .3em;
@@ -14,7 +14,7 @@
   *margin-left: 0;
 }
 .gicon-white {
-  background-image: url(i/glyphgicons-halflings-white.png);
+  background-image: url(../images/glyphgicons-halflings-white.png);
 }
 .gicon-glass {
   background-position: 0      0;

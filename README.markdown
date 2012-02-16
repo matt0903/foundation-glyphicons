@@ -3,15 +3,30 @@ Welcome to Foundation Glyphicons Plugin
 
 This plugin integrates the beautiful Glyphicons into your Foundation-powered pages. Glyphicons is a library of precisely prepared monochromatic icons and symbols, created with an emphasis on simplicity and easy orientation.
 
-Homepage:      http://github.com/phretor/foundation-glyphicons
+Homepage: http://github.com/phretor/foundation-glyphicons
 
+How to use this plugin
+======================
+
+Link it in your HTML templates
+
+```html
+...
+<!-- Included CSS Files -->
+<link rel="stylesheet" href="stylesheets/foundation.css">
+<link rel="stylesheet" href="stylesheets/app.css">
+
+<!-- Included CSS Files (plugins) -->
+<link rel="stylesheet" href="plugins/foundation-glyphicons/stylesheets/foundation-glyphicons.css">
+...
+```
 
 About Foundation
 ================
 
 Foundation is a rock-solid, responsive framework for rapidly prototyping and iterating into production code. It includes a 12-column, future-friendly grid and tons of great tools and elements that'll get you up and running in no time. Clone the repo to get the marketing site, docs, and base source. You can also visit http://foundation.zurb.com to download just the base source as a starting boilerplate.
 
-Homepage:      http://foundation.zurb.com  
+Homepage: http://foundation.zurb.com
 
 Foundation is MIT-licensed and absolutely free to use. Foundation wouldn't be possible without the support of the entire ZURB team, our friends and colleagues who gave feedback, and some luminaries who did some heavy lifting that we took advantage of (thanks guys).
 
