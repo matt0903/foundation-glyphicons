@@ -25,7 +25,7 @@ How to use this plugin
 
 ```html
 ...
-<span class="icon-search"></span>
+<span class="gicon-search"></span>
 ...
 ```
 
@@ -33,7 +33,7 @@ How to use this plugin
 
 ```html
 ...
-<span class="icon-search icon-white"></span>
+<span class="gicon-search gicon-white"></span>
 ...
 ```
 
