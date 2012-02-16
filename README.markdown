@@ -8,7 +8,7 @@ Homepage: http://github.com/phretor/foundation-glyphicons
 How to use this plugin
 ======================
 
-Link it in your HTML templates
+# Link it in your HTML templates
 
 ```html
 ...
@@ -20,6 +20,35 @@ Link it in your HTML templates
 <link rel="stylesheet" href="plugins/foundation-glyphicons/stylesheets/foundation-glyphicons.css">
 ...
 ```
+
+# Assign proper classes
+
+```html
+...
+<span class="icon-search"></span>
+...
+```
+
+# Use inverted colors, if you like
+
+```html
+...
+<span class="icon-search icon-white"></span>
+...
+```
+
+List of class names
+===================
+
+![Glyphicons](https://github.com/phretor/foundation-glyphicons/raw/master/images/glyphicons-list-1.png)
+![Glyphicons](https://github.com/phretor/foundation-glyphicons/raw/master/images/glyphicons-list-2.png)
+
+
+Credits
+=======
+
+This plugin has been transplanted from the Twitter Bootstrap library.
+
 
 About Foundation
 ================
