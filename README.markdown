@@ -47,7 +47,7 @@ List of class names
 Credits
 =======
 
-This plugin has been transplanted from the Twitter Bootstrap library.
+This plugin has been transplanted from the [Twitter Bootstrap](http://twitter.github.com/bootstrap/base-css.html?#icons) library.
 
 
 About Foundation
